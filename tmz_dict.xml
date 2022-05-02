@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tlacolula de Matamoros Zapotec Dictionary</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="zab">Tlacolula de Matamoros Zapotec</language>
+        <mainLang xml:lang="zab" />
+			</langUsage>
+			<schemaRef type="projectODD" url="tei_dict.odd"/>
+  </teiHeader>
+  <text>
+      <body>
+         <entry>
+           <form>
+             <orth>logi'a</orth>
+             <pron></pron>
+             </form>
+             <sense>
+               <cit type="translation" xml:lang="en">
+                 <def>market</def>
+                 </cit>
+             </sense>
+           </entry>
+           <entry>
+             <form>
+               <orth>zhi</orth>
+               <pron>zhii</pron>
+             </form>
+             <sense>
+               <cit type="translation" xml:lang="en">
+                 <def>tomorrow</def>
+               </cit>
+             </sense>
+             <sense>
+               <cit type="translation" xml:lang="en">
+                 <def>day</def>
+               </cit>
+             </sense>
+           </entry>
+      </body>
+  </text>
+</TEI>
