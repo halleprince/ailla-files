@@ -21,33 +21,49 @@
   </teiHeader>
   <text>
       <body>
-         <entry>
-           <form>
-             <orth>logi'a</orth>
-             <pron></pron>
-             </form>
-             <sense>
-               <cit type="translation" xml:lang="en">
-                 <def>market</def>
-                 </cit>
-             </sense>
-           </entry>
-           <entry>
-             <form>
-               <orth>zhi</orth>
-               <pron>zhii</pron>
-             </form>
-             <sense>
-               <cit type="translation" xml:lang="en">
-                 <def>tomorrow</def>
-               </cit>
-             </sense>
-             <sense>
-               <cit type="translation" xml:lang="en">
-                 <def>day</def>
-               </cit>
-             </sense>
-           </entry>
+        <entry><form>
+            <orth>logi'a</orth>
+            <pron></pron></form>
+          <sense><cit type="translation" xml:lang="en">
+            <def>market</def></cit></sense></entry>
+        <entry><form>
+            <orth>zhi</orth>
+            <pron>zhii</pron></form>
+          <sense><cit type="translation" xml:lang="en">
+            <def>tomorrow</def></cit></sense>
+          <sense><cit type="translation" xml:lang="en">
+            <def>day</def></cit></sense></entry>
+        <entry><form>
+            <orth>rsil</orth></form>
+          <sense><cit type="translation" xml:lang="en">
+            <def>morning</def></cit></sense></entry>
+        <entry><form>
+            <orth>ozhi</orth></form>
+          <sense><cit type="translation" xml:lang="en">
+            <def>afternoon</def></cit></sense></entry>
+        <entry><form>
+            <orth>bro</orth>
+            <pron>bro'oh</pron></form>
+          <sense><cit type="translation" xml:lang="en">
+            <def>big</def></cit></sense></entry>
+        <entry><form>
+            <orth>ditsa</orth></form>
+          <sense><cit type="translation" xml:lang="en">
+            <def>Zapotec (language)</def></cit></sense></entry>
+        <entry><form>
+            <orth>bac</orth> <!-- check ortho -->
+            <pron>ba'ac</pron></form>
+          <sense><cit type="translation" xml:lang="en">
+            <def>Tlacolula de Matamoros</def></cit></sense></entry>
+        <entry><form>
+            <pron>bìiny</pron>
+            <orth>biin</orth></form>
+          <sense><cit type="translation" xml:lang="en">
+            <def>person</def></cit></sense></entry>
+        <entry><form>
+            <orth>da'd</orth></form>
+          <sense><cit type="translation" xml:lang="en">
+            <def>person</def></cit></sense></entry>
       </body>
   </text>
 </TEI>
